@@ -1,5 +1,5 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
+body{text-align:center;}
+a{background-color:grey; padding:10px}
+figcaption{ font:12pt;}
+img{ display:block; margin-left:auto; margin-right:auto; width:50%;}
+p{width:800px;text-align:center;}
